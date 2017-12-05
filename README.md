@@ -7,19 +7,19 @@ This code assumes Python version 2.7 or 3.5.
 
 There are 5 key libraries that you will need to install. Below is a list of the Python SciPy libraries required for this tutorial:
 
-scipy
-numpy
-matplotlib
-pandas
-sklearn
+1. scipy
+2. numpy
+3. matplotlib
+4. pandas
+5. sklearn
 
 A machine learning project may not be linear, but it has a number of well known steps:
 
-Define Problem.
-Prepare Data.
-Evaluate Algorithms.
-Improve Results.
-Present Results.
+1. Define Problem.
+2. Prepare Data.
+3. Evaluate Algorithms.
+4. Improve Results.
+5. Present Results.
 
 The best way to really come to terms with a new platform or tool is to work through a machine learning project end-to-end and cover the key steps. Namely, from loading data, summarizing data, evaluating algorithms and making some predictions.
 

@@ -1,5 +1,7 @@
 # ML-python-on-Iris-data
-Hi I am Shazlyn Aszemi. This is my first understanding (practically) on applying the theory of machine learning in very basic way.
+Hi I am Shazlyn Aszemi 
+
+This is my first understanding (practically) on applying the theory of machine learning in very basic way.
 
 If python functions is difficult to understand, you can always use help(“FunctionName”) help syntax in Python to learn about all of the functions that you’re using.
 

@@ -1,4 +1,4 @@
-#Neural Network
+### Neural Network
 Hi I am Shazlyn Aszemi 
 
 This is my first understanding (practically) on applying the theory of machine learning in very basic way.
